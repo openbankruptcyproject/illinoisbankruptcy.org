@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://illinoisbankruptcy.org/sitemap.xml
 
-Sitemap: https://illinoisbankruptcy.org/feed.xml
+
+Sitemap: https://illinoisbankruptcy.org/sitemapindex.xml
