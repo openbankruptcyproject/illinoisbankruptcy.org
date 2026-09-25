@@ -1,6 +1,6 @@
 # illinoisbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on illinoisbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -21,6 +21,8 @@ Bank Accounts and Bankruptcy in Illinois
 Understanding how bankruptcy interacts with your bank accounts in Illinois can help you protect your money and avoid unexpected freezes or seizures.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Before bankruptcy, a creditor with a judgment can levy (freeze and seize funds from) your bank account in Illinois. After you file bankruptcy, the automatic stay immediately prohibits any new levies and may require release of frozen funds.
 
 Bank Account Levies and the Automatic Stay
 
@@ -94,7 +96,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -126,15 +127,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -158,7 +177,7 @@ Can I Buy a Car While in Chapter 13 in Illinois?
 
 Yes - but you need court permission first. Buying a car during Chapter 13 requires filing a motion, getting trustee approval, and showing the purchase fits your budget.
 
-Quick answer: You can buy a car during Chapter 13 in Illinois, but you must file a Motion to Incur New Debt and get court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
+Quick answer: You can buy a car during Chapter 13 in Illinois, but the typical mechanism is filing a Motion to Incur New Debt and obtaining court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
 
 The Process: Step by Step
 
@@ -210,7 +229,7 @@ Frequently Asked Questions
 
 Can I buy a car while in Chapter 13 in Illinois?
 
-Yes, but you need court approval. You must file a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
+Court approval is generally required. The typical mechanism is filing a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
 
 Do I need trustee approval to buy a car in Illinois Chapter 13?
 
@@ -226,7 +245,7 @@ You or your attorney file a Motion to Incur New Debt with the bankruptcy court. 
 
 Can I lease a car during Chapter 13 in Illinois?
 
-Leasing during Chapter 13 is treated the same as buying - you need court approval. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
+Leasing during Chapter 13 is treated the same as buying - court approval is generally required. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
 
 What happens if I buy a car without court approval?
 
@@ -268,15 +287,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -301,6 +338,8 @@ Buying a House After Bankruptcy in Illinois
 Bankruptcy does not permanently prevent homeownership. Thousands of Americans buy homes after bankruptcy every year. Here are the waiting periods, requirements, and strategies for Illinois residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+After Chapter 7: 2-4 years depending on the loan type (FHA requires 2 years, conventional requires 4 years). After Chapter 13: 1-2 years after discharge (FHA may allow applications during an active plan with trustee approval). VA loans require 2 years after Chapter 7 and may allow applications during Chapter 13.
 
 Waiting Periods by Loan Type
 
@@ -378,7 +417,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -410,15 +448,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -580,15 +636,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -613,6 +687,8 @@ Chapter 13 Bankruptcy Eligibility in Illinois
 Chapter 13 lets Illinois residents keep their property while repaying debts over 3-5 years. Here are the eligibility requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Core Eligibility Requirements
 
@@ -710,7 +786,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -742,15 +817,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -775,6 +868,8 @@ Chapter 13 Payments in Illinois
 Your Chapter 13 plan payment is based on your income, expenses, and debts. Here is how it works in Illinois and what to do if you cannot keep up.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your monthly payment depends on your disposable income (income minus allowed expenses), the amount of secured and priority debts you must pay, and the liquidation test (unsecured creditors must receive at least what they would get in Chapter 7). Most Illinois Chapter 13 payments range from a few hundred to a few thousand dollars per month.
 
 How Payments Are Calculated
 
@@ -862,7 +957,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -894,15 +988,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -937,6 +1049,8 @@ Filing Fee
 $15,000
 
 Homestead Exemption
+
+Chapter 13 plans last 3 to 5 years. If your income is below the Illinois median, you may qualify for a 3-year plan. If above the median, your plan must be 5 years. During this time, you make monthly payments to a trustee who distributes the money to your creditors.
 
 What Is Chapter 13?
 
@@ -1043,15 +1157,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1076,6 +1208,8 @@ Chapter 7 Bankruptcy Eligibility in Illinois
 Chapter 7 bankruptcy can eliminate most unsecured debt in 3-4 months. Here is how to determine whether you qualify to file in Illinois.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+To qualify for Chapter 7 in Illinois, your household income must be at or below the state median income for your household size. If above median, you must pass the means test, which deducts allowed expenses from your income. If the result shows insufficient disposable income, you still qualify. Current Illinois median income figures are updated twice yearly.
 
 The Means Test
 
@@ -1155,7 +1289,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -1187,15 +1320,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1218,6 +1369,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Illinois
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Illinois residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1348,15 +1501,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1381,6 +1552,8 @@ Home›Illinois Bankruptcy›Chicago›341 Meeting
 The 341 meeting is a required step in every bankruptcy case. Here is what Chicago residents can expect.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The trustee asks you questions under oath about your financial situation, assets, and the information in your petition. The meeting typically lasts 5-10 minutes. Creditors may attend but rarely do.
 
 What Is the 341 Meeting?
 
@@ -1452,6 +1625,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Automatic Stay in Chicago Bankruptcy - Stop Collections Immediately
@@ -1467,6 +1642,8 @@ The Automatic Stay: Immediate Protection in Chicago
 The moment you file bankruptcy in Chicago, the automatic stay stops nearly all creditor actions. Here is what it protects and how it works.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The automatic stay stops virtually all collection actions: wage garnishment, lawsuits, foreclosure proceedings, repossession, phone calls, letters, and bank levies. It takes effect the moment your petition is filed.
 
 What the Automatic Stay Stops
 
@@ -1554,9 +1731,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Chapter 13 Bankruptcy in Chicago, Illinois - Repayment Plans & Eligibility
+## Chapter 13 Bankruptcy in Chicago, Illinois - Repayment Plans &amp; Eligibility
 Source: https://illinoisbankruptcy.org/chicago/chapter-13.html
 
 Illinois Bankruptcy Guide
@@ -1585,6 +1764,8 @@ Homestead Exemption
 No
 
 Means Test Required
+
+Chapter 13 lets you reorganize your debts into a 3-5 year repayment plan. You make monthly payments to a trustee who distributes funds to creditors. At the end of the plan, remaining qualifying debts are discharged.
 
 What Is Chapter 13 Bankruptcy?
 
@@ -1704,9 +1885,11 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Chapter 7 Bankruptcy in Chicago, Illinois - Eligibility, Process & Cost
+## Chapter 7 Bankruptcy in Chicago, Illinois - Eligibility, Process &amp; Cost
 Source: https://illinoisbankruptcy.org/chicago/chapter-7.html
 
 Illinois Bankruptcy Guide
@@ -1735,6 +1918,8 @@ Median Income (1 person)
 $15,000
 
 Homestead Exemption
+
+To qualify for Chapter 7 in Illinois, your household income must be below the state median or you must pass the means test calculation. For a single filer in Illinois, the median income threshold is approximately $61,456.
 
 What Is Chapter 7 Bankruptcy?
 
@@ -1856,6 +2041,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Filing Checklist - Chicago, Illinois
@@ -1948,6 +2135,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## How Much Does Bankruptcy Cost in Chicago, Illinois? (2026 Guide)
@@ -1979,6 +2168,8 @@ Ch. 7 Attorney Fee
 $3K-$5K
 
 Ch. 13 Attorney Fee
+
+The court filing fee for Chapter 7 is $338. Attorney fees in Chicago typically range from $1,000 to $2,500. You will also pay $25-$50 total for two required credit counseling courses.
 
 Court Filing Fees
 
@@ -2066,6 +2257,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Rebuilding Credit After Bankruptcy in Chicago, Illinois
@@ -2081,6 +2274,8 @@ Rebuilding Credit After Bankruptcy in Chicago
 Bankruptcy is not the end of your financial life - it is a fresh start. Here is how Chicago residents can rebuild credit after discharge.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 stays on your credit report for 10 years from the filing date. Chapter 13 stays for 7 years. However, the impact diminishes over time and many people see significant improvement within 1-2 years.
 
 Credit Recovery Timeline
 
@@ -2162,6 +2357,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Illinois Bankruptcy Exemptions for Chicago Residents ($15,000 Homestead)
@@ -2189,6 +2386,8 @@ Vehicle
 $4,000
 
 Wildcard
+
+Illinois provides a $15,000 homestead exemption that protects equity in your primary residence. If your home equity is within this amount, you can keep your home when filing Chapter 7 bankruptcy.
 
 Understanding Exemptions
 
@@ -2272,6 +2471,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy FAQ for Chicago, Illinois - Common Questions Answered
@@ -2287,6 +2488,8 @@ Bankruptcy FAQ - Chicago, Illinois
 Answers to the most common questions about filing bankruptcy in Chicago.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You file through the Northern District of Illinois (N.D. Ill.) at 219 S. Dearborn St, Chicago, IL 60604. Start by completing credit counseling, gathering financial documents, and consulting with an attorney. You then file a petition, attend a 341 meeting, and complete a debtor education course.
 
 Frequently Asked Questions
 
@@ -2372,6 +2575,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Chicago, Illinois - Complete Guide | Chicago Bankruptcy
@@ -2401,6 +2606,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+You file for bankruptcy in Chicago through the Northern District of Illinois (N.D. Ill.). The courthouse is located at 219 S. Dearborn St, Chicago, IL 60604. You will need to complete credit counseling, gather financial documents, and file a petition with the court. Most people hire an attorney, though you can file pro se.
 
 Bankruptcy Basics in Chicago
 
@@ -2548,6 +2755,30 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Can I Keep My Car in Bankruptcy? Chicago, Illinois Guide
@@ -2563,6 +2794,8 @@ Can I Keep My Car Filing Bankruptcy in Chicago?
 Yes, most people keep their vehicles in bankruptcy. Here is how the Illinois vehicle exemption and reaffirmation work for Chicago residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Illinois allows you to exempt up to $2,400 in vehicle equity. If your car is worth less than you owe, or your equity is within the exemption amount, you can keep it.
 
 Illinois Vehicle Exemption
 
@@ -2640,6 +2873,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Can I Keep My House in Bankruptcy? Chicago, Illinois Guide
@@ -2655,6 +2890,8 @@ Can I Keep My House Filing Bankruptcy in Chicago?
 Illinois's $15,000 homestead exemption protects your home equity. Here is how to keep your house in both Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Illinois provides a $15,000 homestead exemption protecting equity in your primary residence.
 
 Illinois Homestead Exemption
 
@@ -2726,6 +2963,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chicago Means Test: Do You Qualify for Chapter 7 in Illinois?
@@ -2741,6 +2980,8 @@ Chicago Means Test: Do You Qualify for Chapter 7?
 The means test determines whether you can file Chapter 7 bankruptcy in Chicago. Your income is compared to Illinois's median income for your household size.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+The means test compares your income to the median income in your state. If your income is below the median for your household size, you automatically qualify for Chapter 7. If above, you must pass a second calculation factoring in allowed expenses.
 
 2026 Illinois Median Income Thresholds
 
@@ -2764,7 +3005,7 @@ Step-by-Step Walkthrough
 
 3Compare to median - If your annualized CMI is at or below the median for your household size, you qualify for Chapter 7 automatically.
 
-4If above median - Deduct IRS-approved expenses, secured debt payments, and priority debts. If your remaining disposable income over 60 months is less than $9,075, you still qualify.
+4If above median - Deduct IRS-approved expenses, secured debt payments, and priority debts. If your remaining disposable income over 60 months is less than $10,275, you still qualify.
 
 What If You Do Not Qualify?
 
@@ -2832,6 +3073,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Eliminate Medical Debt in Bankruptcy - Chicago, Illinois Guide
@@ -2847,6 +3090,8 @@ Eliminate Medical Debt Through Bankruptcy in Chicago
 Medical bills are the leading cause of bankruptcy in America. Both Chapter 7 and Chapter 13 can eliminate medical debt for Chicago residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Medical debt is unsecured debt that is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. It is one of the most common reasons people file.
 
 Medical Debt in Bankruptcy
 
@@ -2912,6 +3157,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Arlington Heights, Illinois - Filing Guide for Arlington Heights Residents
@@ -2927,6 +3174,8 @@ Filing Bankruptcy in Arlington Heights, Illinois
 A guide to bankruptcy for Arlington Heights residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Arlington Heights residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Arlington Heights Residents
 
@@ -3032,6 +3281,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Aurora, Illinois - Filing Guide for Aurora Residents
@@ -3047,6 +3298,8 @@ Filing Bankruptcy in Aurora, Illinois
 A guide to bankruptcy for Aurora residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Aurora residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Aurora Residents
 
@@ -3152,6 +3405,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Cicero, Illinois - Filing Guide for Cicero Residents
@@ -3167,6 +3422,8 @@ Filing Bankruptcy in Cicero, Illinois
 A guide to bankruptcy for Cicero residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Cicero residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Cicero Residents
 
@@ -3272,6 +3529,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Des Plaines, Illinois - Filing Guide for Des Plaines Residents
@@ -3287,6 +3546,8 @@ Filing Bankruptcy in Des Plaines, Illinois
 A guide to bankruptcy for Des Plaines residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Des Plaines residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Des Plaines Residents
 
@@ -3392,6 +3653,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Elgin, Illinois - Filing Guide for Elgin Residents
@@ -3407,6 +3670,8 @@ Filing Bankruptcy in Elgin, Illinois
 A guide to bankruptcy for Elgin residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Elgin residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Elgin Residents
 
@@ -3512,6 +3777,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Evanston, Illinois - Filing Guide for Evanston Residents
@@ -3527,6 +3794,8 @@ Filing Bankruptcy in Evanston, Illinois
 A guide to bankruptcy for Evanston residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Evanston residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Evanston Residents
 
@@ -3632,6 +3901,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Joliet, Illinois - Filing Guide for Joliet Residents
@@ -3647,6 +3918,8 @@ Filing Bankruptcy in Joliet, Illinois
 A guide to bankruptcy for Joliet residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Joliet residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Joliet Residents
 
@@ -3752,6 +4025,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Naperville, Illinois - Filing Guide for Naperville Residents
@@ -3767,6 +4042,8 @@ Filing Bankruptcy in Naperville, Illinois
 A guide to bankruptcy for Naperville residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Naperville residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Naperville Residents
 
@@ -3872,6 +4149,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Oak Lawn, Illinois - Filing Guide for Oak Lawn Residents
@@ -3887,6 +4166,8 @@ Filing Bankruptcy in Oak Lawn, Illinois
 A guide to bankruptcy for Oak Lawn residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Oak Lawn residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Oak Lawn Residents
 
@@ -3992,6 +4273,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Oak Park, Illinois - Filing Guide for Oak Park Residents
@@ -4007,6 +4290,8 @@ Filing Bankruptcy in Oak Park, Illinois
 A guide to bankruptcy for Oak Park residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Oak Park residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Oak Park Residents
 
@@ -4112,6 +4397,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Schaumburg, Illinois - Filing Guide for Schaumburg Residents
@@ -4127,6 +4414,8 @@ Filing Bankruptcy in Schaumburg, Illinois
 A guide to bankruptcy for Schaumburg residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Schaumburg residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Schaumburg Residents
 
@@ -4232,6 +4521,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Skokie, Illinois - Filing Guide for Skokie Residents
@@ -4247,6 +4538,8 @@ Filing Bankruptcy in Skokie, Illinois
 A guide to bankruptcy for Skokie residents. Covers filing location, Illinois exemptions, costs, and your options under Chapter 7 and Chapter 13.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Skokie residents file through the Northern District of Illinois (N.D. Ill.). The courthouse is at 219 S. Dearborn St, Chicago, IL 60604.
 
 Bankruptcy Filing for Skokie Residents
 
@@ -4352,6 +4645,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy Timeline in Chicago, Illinois - How Long Does It Take?
@@ -4367,6 +4662,8 @@ Bankruptcy Timeline in Chicago, Illinois
 Here is how long the bankruptcy process takes for Chicago residents, from first steps to discharge.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 typically takes 3-4 months from filing to discharge. The 341 meeting is about 30 days after filing, and discharge comes about 60 days after that.
 
 Chapter 7 Timeline
 
@@ -4450,6 +4747,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Bankruptcy Chapters in Illinois
@@ -4465,6 +4764,8 @@ Converting Bankruptcy Chapters in Illinois
 If your financial situation changes after filing, Illinois debtors can convert between bankruptcy chapters. Understanding your conversion rights can help you get the best outcome.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Under 11 U.S.C. section 706 and section 1307, you generally have the right to convert between chapters. Chapter 7 debtors can convert to Chapter 13 once as a matter of right. Chapter 13 debtors can convert to Chapter 7 at any time if they have not previously converted from Chapter 7.
 
 Conversion Options
 
@@ -4548,7 +4849,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4580,15 +4880,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4623,6 +4941,8 @@ Chapter 13 Filing Fee
 $25-50
 
 Credit Counseling (2 courses)
+
+The Chapter 7 filing fee is $338. Attorney fees in Illinois typically range from $1,000 to $2,000. Credit counseling courses cost about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -4717,15 +5037,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4751,6 +5089,8 @@ Credit card debt is one of the most common reasons Illinois residents file for b
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Credit card debt is unsecured debt and is generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Illinois. In Chapter 7, it is eliminated entirely. In Chapter 13, you pay a percentage based on your disposable income over 3-5 years, and the rest is discharged.
+
 How Each Chapter Handles Credit Card Debt
 
 Chapter 7
@@ -4765,7 +5105,7 @@ Recent Charges: The 90-Day and 70-Day Rules
 
 Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is presumed to be non-dischargeable:
 
-Luxury goods/services over $800 charged within 90 days before filing
+Luxury goods/services over $900 charged within 90 days before filing
 
 Cash advances over $1,250 within 70 days before filing
 
@@ -4825,7 +5165,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4857,15 +5196,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4897,7 +5254,7 @@ The Two Presumption Periods
 
 Applies to purchases of luxury goods/services
 
-Threshold: $800+ to a single creditor
+Threshold: $900+ to a single creditor
 
 Within 90 days of filing
 
@@ -4909,7 +5266,7 @@ Presumed non-dischargeable (you must prove otherwise)
 
 Applies to cash advances
 
-Threshold: $1,100+ in aggregate
+Threshold: $1,250+ in aggregate
 
 Within 70 days of filing
 
@@ -4965,7 +5322,7 @@ Technically you can, but it is strongly discouraged. Charges made with no intent
 
 What is the 90-day rule for credit cards before bankruptcy?
 
-Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $800 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
+Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $900 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
 
 What is the 70-day rule for cash advances?
 
@@ -5019,15 +5376,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5052,6 +5427,8 @@ Bankruptcy Disqualifications in Illinois
 Not everyone qualifies for bankruptcy relief. Understanding the disqualifications can help Illinois residents plan their filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You may be disqualified from bankruptcy if: you did not complete credit counseling, you received a recent prior discharge (8 years for Ch.7-to-Ch.7, 4 years for Ch.7-to-Ch.13, 6 years for Ch.13-to-Ch.7, 2 years for Ch.13-to-Ch.13), you committed fraud, your prior case was dismissed within 180 days for cause, or your income is too high for Chapter 7 and debts exceed Chapter 13 limits.
 
 Filing Bars: When You Cannot File
 
@@ -5147,7 +5524,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5179,15 +5555,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5212,6 +5606,8 @@ Divorce and Bankruptcy in Illinois
 Divorce and bankruptcy often occur together. Understanding how they interact in Illinois can help you protect your assets, manage shared debts, and plan the best filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file bankruptcy before, during, or after a divorce in Illinois. The timing affects how debts and property are divided. Filing before the divorce can simplify property division by eliminating joint unsecured debt.
 
 Filing Order: Bankruptcy Before, During, or After Divorce
 
@@ -5293,7 +5689,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5325,15 +5720,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5358,6 +5771,8 @@ Emergency Bankruptcy Filing in Illinois
 When foreclosure, repossession, or garnishment is days or even hours away, Illinois residents can file an emergency bankruptcy petition to trigger the automatic stay immediately.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file an emergency (bare-bones) bankruptcy petition in Illinois to get the automatic stay protection immediately. You file only the two-page voluntary petition, a creditor list, and proof of credit counseling. You then have 14 days to file the remaining schedules and documents.
 
 What Is an Emergency Bankruptcy Filing?
 
@@ -5454,7 +5869,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5486,15 +5900,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5660,15 +6092,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5800,15 +6250,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5970,15 +6438,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6001,6 +6487,8 @@ Home›Exemptions
 Illinois Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding Illinois's exemptions is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Illinois's homestead exemption protects up to $15,000 of equity in your primary residence. For married couples filing jointly, the exemption doubles to $30,000.
 
 What Are Exemptions?
 
@@ -6085,15 +6573,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6105,7 +6611,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Illinois Bankruptcy FAQ - 15 Common Questions Answered
+## Illinois Bankruptcy FAQ [2026]: 15 Questions on NDIL, CDIL, SDIL Filing, IL Exemptions, and Means Test
 Source: https://illinoisbankruptcy.org/faq.html
 
 Illinois Bankruptcy Guide
@@ -6116,6 +6622,8 @@ Home›Faq
 Illinois Bankruptcy FAQ
 
 Answers to the 15 most common questions from Illinois residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,000 to $2,000 for Chapter 7 and $3,000 to $5,000 for Chapter 13. Credit counseling costs about $25-50 total. Chapter 13 fees can be paid through your repayment plan. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -6210,15 +6718,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6376,15 +6902,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6409,6 +6953,8 @@ Illinois Bankruptcy Glossary
 Key bankruptcy terms and definitions for Illinois filers, from automatic stay to wildcard exemption.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Bankruptcy Terms A-Z
 
@@ -6519,7 +7065,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6551,15 +7096,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6584,6 +7147,8 @@ Bankruptcy Income Limits in Illinois
 Your income determines which bankruptcy chapter you qualify for in Illinois and how much you pay in Chapter 13. Here is how the income limits work.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+For Chapter 7, your household income must be at or below the Illinois median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 Chapter 7 Income Limits
 
@@ -6661,7 +7226,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6693,15 +7257,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6713,13 +7295,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Illinois Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Illinois Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://illinoisbankruptcy.org/
 
 Skip to main content
 
 Illinois Bankruptcy Guide
-HomeChicagoSpringfieldChapter 7Chapter 13ExemptionsCostFAQStatsOBP Rule 9037 PII Scanner
+HomeChicagoSpringfieldChapter 7Chapter 13ExemptionsCostFAQStatsOBP Rule 9037 Compliance Guide
 
 Illinois Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6743,6 +7325,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Illinois typically range from $1,000 to $2,000 for Chapter 7 and $3,000 to $5,000 for Chapter 13. You will also need to pay for two required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -6900,7 +7484,6 @@ Georgia
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6948,19 +7531,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -7046,6 +7643,72 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Chicago: Automatic Stay
+Chicago: Checklist
+Chicago: Credit After Bankruptcy
+Chicago: Keep Your Car
+Chicago: Keep Your House
+Chicago: Medical Debt
+Chicago: Timeline
+Converting Chapters
+Credit Card Debt
+Credit Cards Before Filing
+Disqualifications
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Income Limits
+Index
+Judgments
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Retirement Accounts
+Second Mortgage
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Illinois
@@ -7061,6 +7724,8 @@ Judgments and Bankruptcy in Illinois
 A civil judgment against you does not mean you are out of options. Bankruptcy can discharge the underlying debt and even remove judgment liens from your property in Illinois.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Most money judgments based on unsecured debt (credit cards, medical bills, personal loans) are dischargeable in bankruptcy in Illinois. The underlying debt determines dischargeability - if the original debt was dischargeable, the judgment based on that debt is also dischargeable.
 
 Discharging Judgments in Bankruptcy
 
@@ -7152,7 +7817,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7184,15 +7848,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7336,15 +8018,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7369,6 +8069,8 @@ Payday Loans and Bankruptcy in Illinois
 Payday loans trap borrowers in cycles of high-interest debt. Bankruptcy can break that cycle by discharging payday loan obligations entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt and are fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Illinois. Once discharged, the lender cannot collect, even if they have post-dated checks or ACH authorization.
 
 Payday Loans Are Dischargeable
 
@@ -7436,7 +8138,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7468,15 +8169,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7602,15 +8321,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7748,15 +8485,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7924,15 +8679,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7955,6 +8728,8 @@ Home›Resources
 Illinois Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process in Illinois.
+
+Illinois has 3 federal bankruptcy courts. N.D. Ill.: 219 S. Dearborn St, Chicago, IL 60604 ((312) 435-5694); C.D. Ill.: 226 S. 6th St, Springfield, IL 62701 ((217) 492-4551); S.D. Ill.: 301 W. Main St, Benton, IL 62812 ((618) 482-9400)
 
 Bankruptcy Courts
 
@@ -8093,15 +8868,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8123,7 +8916,7 @@ Home›Retirement Accounts and Bankruptcy in Illinois
 
 Retirement Accounts and Bankruptcy in Illinois
 
-Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Illinois filers need to know.
+Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,711,975. Here is what Illinois filers need to know.
 
 Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
@@ -8145,7 +8938,7 @@ Thrift Savings Plan (TSP) - fully exempt for federal employees
 
 This protection applies nationwide regardless of state exemption choices. The trustee cannot touch these accounts.
 
-IRAs: Protected Up to $1,512,350
+IRAs: Protected Up to $1,711,975
 
 Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
@@ -8241,15 +9034,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8274,6 +9085,8 @@ Second Mortgages and Bankruptcy in Illinois
 If your Illinois home is worth less than your first mortgage, Chapter 13 lien stripping can eliminate your second mortgage entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, through a process called lien stripping in Chapter 13. If your home is worth less than what you owe on your first mortgage, the second mortgage is considered wholly unsecured and can be treated as general unsecured debt in your plan. At completion of the plan, the lien is removed.
 
 What Is Lien Stripping?
 
@@ -8355,7 +9168,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -8387,15 +9199,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8541,15 +9371,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8561,7 +9409,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 13 Bankruptcy in Springfield, Illinois - Repayment Plans & Eligibility
+## Chapter 13 Bankruptcy in Springfield, Illinois - Repayment Plans &amp; Eligibility
 Source: https://illinoisbankruptcy.org/springfield-il/chapter-13.html
 
 Illinois Bankruptcy Guide
@@ -8590,6 +9438,8 @@ Homestead Exemption
 No
 
 Means Test Required
+
+Chapter 13 lets you reorganize your debts into a 3-5 year repayment plan. You make monthly payments to a trustee who distributes funds to creditors. At the end of the plan, remaining qualifying debts are discharged.
 
 What Is Chapter 13 Bankruptcy?
 
@@ -8709,9 +9559,11 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Chapter 7 Bankruptcy in Springfield, Illinois - Eligibility, Process & Cost
+## Chapter 7 Bankruptcy in Springfield, Illinois - Eligibility, Process &amp; Cost
 Source: https://illinoisbankruptcy.org/springfield-il/chapter-7.html
 
 Illinois Bankruptcy Guide
@@ -8740,6 +9592,8 @@ Median Income (1 person)
 $15,000
 
 Homestead Exemption
+
+To qualify for Chapter 7 in Illinois, your household income must be below the state median or you must pass the means test calculation. For a single filer in Illinois, the median income threshold is approximately $61,456.
 
 What Is Chapter 7 Bankruptcy?
 
@@ -8861,6 +9715,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Illinois Bankruptcy Exemptions for Springfield Residents ($15,000 Homestead)
@@ -8888,6 +9744,8 @@ Vehicle
 $4,000
 
 Wildcard
+
+Illinois provides a $15,000 homestead exemption that protects equity in your primary residence. If your home equity is within this amount, you can keep your home when filing Chapter 7 bankruptcy.
 
 Understanding Exemptions
 
@@ -8969,6 +9827,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy FAQ for Springfield, Illinois - Common Questions Answered
@@ -8984,6 +9844,8 @@ Bankruptcy FAQ - Springfield, Illinois
 Answers to the most common questions about filing bankruptcy in Springfield.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You file through the Central District of Illinois (C.D. Ill.) at 600 E. Monroe St, Springfield, IL 62701. Start by completing credit counseling, gathering financial documents, and consulting with an attorney. You then file a petition, attend a 341 meeting, and complete a debtor education course.
 
 Frequently Asked Questions
 
@@ -9069,6 +9931,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Springfield, Illinois - Complete Guide | Springfield Bankruptcy
@@ -9098,6 +9962,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+You file for bankruptcy in Springfield through the Central District of Illinois (C.D. Ill.). The courthouse is located at 600 E. Monroe St, Springfield, IL 62701. You will need to complete credit counseling, gather financial documents, and file a petition with the court. Most people hire an attorney, though you can file pro se.
 
 Bankruptcy Basics in Springfield
 
@@ -9228,9 +10094,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
-## Illinois Bankruptcy Statistics - Filing Data and Trends
+## Illinois Bankruptcy Statistics [2026]: Filing Data and Trends Across NDIL, CDIL, and SDIL
 Source: https://illinoisbankruptcy.org/statistics.html
 
 Illinois Bankruptcy Guide
@@ -9257,6 +10147,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Since 2008, Illinois's districts have processed over 350,000+ bankruptcy cases. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 Illinois Federal Court Districts
 
@@ -9310,7 +10202,6 @@ Georgia
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -9342,15 +10233,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9478,15 +10387,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9642,15 +10569,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9776,15 +10721,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9938,15 +10901,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10084,15 +11065,33 @@ Illinois Exemptions
 
 Bankruptcy Cost in Illinois
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+illinoisbankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10160,7 +11159,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -10170,6 +11169,368 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About illinoisbankruptcy.org
+Source: https://illinoisbankruptcy.org/about.html
+
+illinoisbankruptcy.org
+
+Home
+About
+Privacy
+
+About illinoisbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+illinoisbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## Credit After Bankruptcy in Illinois
+Source: https://illinoisbankruptcy.org/credit-after-bankruptcy.html
+
+Illinois Bankruptcy Guide
+HomeChicagoChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Illinois›Credit After Bankruptcy
+
+Rebuilding Credit After Bankruptcy in Illinois
+
+Bankruptcy is not the end of your credit life - it is the beginning. Most people see their score start rising within months of discharge.
+
+General educational information, not legal or financial advice. Consult a qualified professional for advice about your situation.
+
+Chapter 7 stays for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. But the impact on your score diminishes over time, and most lenders weigh the most recent 2 years most heavily.
+
+FICO Score Timeline After Bankruptcy
+
+Many people assume their FICO scores will stay buried for years after bankruptcy. The reality is different. Bankruptcy wipes out old debts and debt-to-income ratios reset almost immediately, so the rebuild can start faster than you expect.
+
+Month 1-6: Score often drops to low 500s at filing, then begins to stabilize after discharge.
+
+Month 6-12: With a secured credit card used responsibly, scores typically climb back to mid-600s.
+
+Year 2: Many Illinois residents qualify for FHA home loans with 620+ scores.
+
+Year 3-5: Scores often return to 700+ with consistent on-time payment history.
+
+Five Steps to Rebuild Credit Fast
+
+Get a secured credit card. Deposit $200-$500 as collateral. Use under 30% of the limit and pay in full every month. After 12 months you usually graduate to an unsecured card.
+
+Pay every bill on time. Payment history is 35% of your FICO score - the single biggest factor. Set up autopay for everything you possibly can.
+
+Keep utilization low. Credit usage is 30% of your score. Keep balances below 30% of limits, and below 10% if you want to maximize the rebuild.
+
+Do not apply for multiple credit products at once. Each application is a hard inquiry. Space applications at least six months apart.
+
+Monitor your credit report. Pull free reports at annualcreditreport.com and dispute any discharged debt that still shows as owed. Creditors sometimes fail to update.
+
+Frequently Asked Questions
+
+How long does bankruptcy stay on my credit report?
+
+Chapter 7 stays for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. But the impact on your score diminishes over time, and most lenders weigh the most recent 2 years most heavily.
+
+How long until I can qualify for a mortgage?
+
+FHA loans require 2 years after Chapter 7 (1 year in Chapter 13 with on-time payments). VA loans are similar. Conventional loans require 4 years after Chapter 7 and 2 years after Chapter 13. See Buy a House After Bankruptcy.
+
+Should I close all my accounts after bankruptcy?
+
+No. Keeping any account in good standing that survives bankruptcy helps you rebuild. Closing accounts reduces available history and can lower your score. Focus on on-time payments for at least six months before applying for new credit.
+
+Ready to Start Rebuilding?
+
+Free Discharge Screener
+
+Browse Other States
+
+IowaWisconsinView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Keep Your Car in Illinois Bankruptcy
+Source: https://illinoisbankruptcy.org/keep-your-car.html
+
+Illinois Bankruptcy Guide
+HomeChicagoChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Illinois›Keep Your Car
+
+Keep Your Car in Illinois Bankruptcy
+
+For most people, losing the car means losing the job. Here is how to keep your vehicle when filing bankruptcy in Illinois.
+
+This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, in most cases. If your equity is below Illinois's motor vehicle exemption ($2,400) and you are current on payments, you can keep the car in Chapter 7. In Chapter 13, you can keep the car even if you are behind on payments by catching up through the plan.
+
+Illinois's Motor Vehicle Exemption: $2,400
+
+Illinois lets you protect up to $2,400 of equity in a motor vehicle in bankruptcy. Equity is the fair market value of the car minus what you still owe on the loan. If your equity is below the exemption limit, the trustee cannot sell your car in Chapter 7.
+
+Example: Your car is worth $12,000 and you owe $10,500 on the loan. Your equity is $1,500. If that sits below Illinois's motor vehicle exemption, the car is protected. Keep making payments to the lender and the car stays with you through the case.
+
+If your equity exceeds the exemption, you may still be able to keep the car by paying the trustee the non-exempt portion, using wildcard exemptions, or switching to Chapter 13.
+
+Your Three Options in Chapter 7
+
+Reaffirm
+
+Sign a new agreement with the lender to keep the car and the loan. You remain personally liable after the case. Best if the car is worth close to the loan balance and you can afford the payment.
+
+Surrender
+
+Give the car back to the lender. Any deficiency balance is wiped out in the bankruptcy. Best if the car is deeply underwater or you cannot afford the payment.
+
+Redeem
+
+Pay the lender the car's fair market value in one lump sum (not the loan balance). Hard to do without outside financing, but can save thousands on underwater cars.
+
+Chapter 13
+
+Catch up missed payments over 3-5 years through the plan. May cramdown the loan balance to the car's value if you bought it more than 910 days ago (Chapter 13 details).
+
+Frequently Asked Questions
+
+Can I keep my car if I file bankruptcy in Illinois?
+
+Yes, in most cases. If your equity is below Illinois's motor vehicle exemption ($2,400) and you are current on payments, you can keep the car in Chapter 7. In Chapter 13, you can keep the car even if you are behind on payments by catching up through the plan.
+
+What is reaffirmation?
+
+A reaffirmation agreement is a contract with the lender to exclude the car loan from your bankruptcy discharge. You promise to keep paying and keep the car, but you also remain personally liable if you default later. Only sign one if you can afford the payment.
+
+What is Chapter 13 cramdown?
+
+Cramdown lets you reduce the loan balance to the car's actual value if you bought it more than 910 days (2.5 years) ago. This can save thousands on underwater vehicles. Talk to a bankruptcy attorney about whether cramdown fits your case.
+
+Protect Your Transportation
+
+Use our free tools to see your options.
+
+Free Discharge Screener
+Illinois Bankruptcy Guide
+
+Browse Other States
+
+IowaWisconsinView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Keep Your House in Illinois Bankruptcy
+Source: https://illinoisbankruptcy.org/keep-your-house.html
+
+Illinois Bankruptcy Guide
+HomeChicagoChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Illinois Bankruptcy Guide›Keep Your House
+
+Keep Your House in Illinois Bankruptcy
+
+Your home is often your most important asset. Here is how Illinois's homestead exemption and bankruptcy law work together to help you keep your house.
+
+This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Illinois's homestead exemption protects up to $15,000 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
+
+Illinois's Homestead Exemption: $15,000
+
+Illinois's homestead exemption protects up to $15,000 of equity in your primary residence ($30,000 for married couples filing jointly). If your equity is below this amount, your home is fully protected in Chapter 7.
+
+To calculate your equity, take the fair market value of your home and subtract all mortgages and liens. The result is your equity. If that number fits within the exemption limit, the trustee cannot sell your home.
+
+Chapter 7 vs. Chapter 13 for Your Home
+
+Chapter 7
+
+Homestead exemption protects equity up to $15,000
+
+Eliminates unsecured debt, making mortgage payments more affordable
+
+Does NOT stop foreclosure long-term - only delays it during the case
+
+You must stay current on mortgage payments to keep the home
+
+Best if you are current on mortgage and need to eliminate other debts
+
+Chapter 13
+
+Stops foreclosure through the automatic stay
+
+Catch up on missed payments over 3-5 years
+
+May strip off underwater second mortgages (lien stripping)
+
+Protects home regardless of equity amount
+
+Best if you are behind on mortgage payments
+
+Foreclosure in Illinois
+
+Illinois primarily uses judicial foreclosure. The process typically takes about 7-10 months from start to sale, and Illinois law provides a statutory right of redemption of seven months from service of the foreclosure complaint.
+
+If you are facing foreclosure in Illinois, bankruptcy can stop the process. The automatic stay halts all foreclosure proceedings the moment you file. Chapter 13 then gives you a structured way to catch up on missed payments while keeping your home.
+
+Frequently Asked Questions
+
+Can I keep my house if I file bankruptcy in Illinois?
+
+In most cases, yes. Illinois's homestead exemption protects up to $15,000 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
+
+Can Chapter 13 stop foreclosure in Illinois?
+
+Yes. Filing Chapter 13 triggers the automatic stay, which immediately stops foreclosure proceedings. You can then catch up on missed mortgage payments over 3-5 years through your repayment plan while continuing to make regular monthly payments going forward.
+
+What happens to my second mortgage in bankruptcy?
+
+If your home is worth less than what you owe on the first mortgage, Chapter 13 may allow you to strip off (remove) the second mortgage entirely. The second mortgage is treated as unsecured debt. This is called lien stripping and can save homeowners thousands.
+
+Protect Your Home Today
+
+Learn about your options and check your discharge eligibility with our free tools.
+
+Free Discharge Screener
+Keep Your House Guide
+
+Browse Other States
+
+IowaWisconsin
+View All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Wage Garnishment in Illinois: How to Stop It
+Source: https://illinoisbankruptcy.org/wage-garnishment.html
+
+Illinois Bankruptcy Guide
+HomeChicagoChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Illinois›Wage Garnishment
+
+How to Stop Wage Garnishment in Illinois
+
+Bankruptcy stops most wage garnishments the same day you file. Here is how it works.
+
+General educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Illinois limits wage garnishment to 15% of gross wages or disposable earnings exceeding 45 times the state minimum wage, whichever is less. This is more protective than federal law.
+
+Garnishment Limits in Illinois
+
+Illinois limits wage garnishment to 15% of gross wages or disposable earnings exceeding 45 times the state minimum wage, whichever is less. This is more protective than federal law.
+
+Protected income: Social Security, disability benefits, child support (received), veterans benefits, and most pensions are generally exempt from garnishment, though they may still be garnished for federal taxes or child support.
+
+Some creditors ignore the rules or calculate the protected amount incorrectly. If you think your paycheck is over-garnished, request a hearing to object. Bankruptcy is often the faster, more permanent solution.
+
+How Bankruptcy Stops Garnishment
+
+The moment a bankruptcy petition is filed, the automatic stay under 11 U.S.C. section 362 takes effect. This federal court order stops:
+
+All wage garnishments by non-governmental creditors
+
+Bank account garnishments and attachment liens
+
+Collection calls and letters
+
+Pending lawsuits and judgments
+
+Foreclosure and vehicle repossession proceedings
+
+To stop the garnishment you must notify your employer's payroll department and the garnishing creditor the same day you file, so they halt withholdings on the next paycheck. Provide the case number and the filing date.
+
+Recovering Already-Garnished Wages
+
+If a creditor garnished more than $600 from you within the 90 days before you filed, those payments are preferential transfers under 11 U.S.C. section 547 and can be clawed back. The trustee will recover the funds from the creditor. In some cases (if you have unused exemption room) you can claim the recovery for yourself.
+
+Frequently Asked Questions
+
+How much can be garnished from my paycheck in Illinois?
+
+Illinois limits wage garnishment to 15% of gross wages or disposable earnings exceeding 45 times the state minimum wage, whichever is less. This is more protective than federal law.
+
+Does bankruptcy stop garnishment immediately?
+
+Yes. The automatic stay under 11 U.S.C. section 362 takes effect the exact moment your bankruptcy petition is filed. You must notify your employer's payroll department and the garnishing creditor the same day so they halt withholdings on your next check.
+
+Can I recover wages that were already garnished?
+
+If a creditor garnished more than $600 within the 90 days before you filed, you can often claw it back as a preferential transfer under 11 U.S.C. section 547. Involuntary payments within the 90-day look-back are recoverable by the trustee or (if you have exemption room) by you.
+
+Stop the Garnishment Today
+
+Free Discharge Screener
+
+Browse Other States
+
+IowaWisconsinView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5

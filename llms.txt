@@ -1,7 +1,7 @@
-# Illinois Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Illinois Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
-> Free Illinois bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Illinois exemptions, filing costs, means test, and what to expect ...
+> Free Illinois bankruptcy guide for 2026.
 
 ## About
 illinoisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -18,8 +18,8 @@ illinoisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Chapter 7 Bankruptcy in Illinois - Eligibility, Exemptions, Timeline: https://illinoisbankruptcy.org/chapter-7.html
 - 341 Meeting of Creditors in Chicago, Illinois - What to Expect: https://illinoisbankruptcy.org/chicago/341-meeting.html
 - Automatic Stay in Chicago Bankruptcy - Stop Collections Immediately: https://illinoisbankruptcy.org/chicago/automatic-stay.html
-- Chapter 13 Bankruptcy in Chicago, Illinois - Repayment Plans & Eligibility: https://illinoisbankruptcy.org/chicago/chapter-13.html
-- Chapter 7 Bankruptcy in Chicago, Illinois - Eligibility, Process & Cost: https://illinoisbankruptcy.org/chicago/chapter-7.html
+- Chapter 13 Bankruptcy in Chicago, Illinois - Repayment Plans &amp; Eligibility: https://illinoisbankruptcy.org/chicago/chapter-13.html
+- Chapter 7 Bankruptcy in Chicago, Illinois - Eligibility, Process &amp; Cost: https://illinoisbankruptcy.org/chicago/chapter-7.html
 - Bankruptcy Filing Checklist - Chicago, Illinois: https://illinoisbankruptcy.org/chicago/checklist.html
 - How Much Does Bankruptcy Cost in Chicago, Illinois? (2026 Guide): https://illinoisbankruptcy.org/chicago/cost.html
 - Rebuilding Credit After Bankruptcy in Chicago, Illinois: https://illinoisbankruptcy.org/chicago/credit-after-bankruptcy.html
@@ -54,11 +54,11 @@ illinoisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Keep My Jewelry in Illinois Bankruptcy?: https://illinoisbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Illinois?: https://illinoisbankruptcy.org/eviction.html
 - Illinois Bankruptcy Exemptions - What You Can Keep: https://illinoisbankruptcy.org/exemptions.html
-- Illinois Bankruptcy FAQ - 15 Common Questions Answered: https://illinoisbankruptcy.org/faq.html
+- Illinois Bankruptcy FAQ [2026]: 15 Questions on NDIL, CDIL, SDIL Filing, IL Exemptions, and Means Test: https://illinoisbankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Illinois: https://illinoisbankruptcy.org/find-bankruptcy-filing.html
 - Illinois Bankruptcy Glossary: https://illinoisbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Illinois: https://illinoisbankruptcy.org/income-limits.html
-- Illinois Bankruptcy - Chapter 7 & 13 Filing Guide: https://illinoisbankruptcy.org/
+- Illinois Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://illinoisbankruptcy.org/
 - Judgments and Bankruptcy in Illinois: https://illinoisbankruptcy.org/judgments.html
 - Filing Bankruptcy for Medical Debt in Illinois - Discharge, Alternatives, Protections: https://illinoisbankruptcy.org/medical-debt-only.html
 - Payday Loans and Bankruptcy in Illinois: https://illinoisbankruptcy.org/payday-loans.html
@@ -69,18 +69,23 @@ illinoisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Keep My 401k and Retirement in Illinois Bankruptcy?: https://illinoisbankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Illinois: https://illinoisbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Illinois - Will I Lose My Clearance?: https://illinoisbankruptcy.org/security-clearance.html
-- Chapter 13 Bankruptcy in Springfield, Illinois - Repayment Plans & Eligibility: https://illinoisbankruptcy.org/springfield-il/chapter-13.html
-- Chapter 7 Bankruptcy in Springfield, Illinois - Eligibility, Process & Cost: https://illinoisbankruptcy.org/springfield-il/chapter-7.html
+- Chapter 13 Bankruptcy in Springfield, Illinois - Repayment Plans &amp; Eligibility: https://illinoisbankruptcy.org/springfield-il/chapter-13.html
+- Chapter 7 Bankruptcy in Springfield, Illinois - Eligibility, Process &amp; Cost: https://illinoisbankruptcy.org/springfield-il/chapter-7.html
 - Illinois Bankruptcy Exemptions for Springfield Residents ($15,000 Homestead): https://illinoisbankruptcy.org/springfield-il/exemptions.html
 - Bankruptcy FAQ for Springfield, Illinois - Common Questions Answered: https://illinoisbankruptcy.org/springfield-il/faq.html
 - Filing Bankruptcy in Springfield, Illinois - Complete Guide | Springfield Bankruptcy: https://illinoisbankruptcy.org/springfield-il/
-- Illinois Bankruptcy Statistics - Filing Data and Trends: https://illinoisbankruptcy.org/statistics.html
+- Illinois Bankruptcy Statistics [2026]: Filing Data and Trends Across NDIL, CDIL, and SDIL: https://illinoisbankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Illinois: https://illinoisbankruptcy.org/stop-paying-bills.html
 - Surrendering Your Car in Illinois Bankruptcy - Process, Deficiency, Options: https://illinoisbankruptcy.org/surrender-car.html
 - Tax Refunds and Chapter 13 in Illinois - Trustee Practices, Protecting Your Refund: https://illinoisbankruptcy.org/tax-refund-chapter13.html
 - Timeshares and Bankruptcy in Illinois: https://illinoisbankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Illinois?: https://illinoisbankruptcy.org/travel-chapter-13.html
 - Privacy Policy: https://illinoisbankruptcy.org/privacy.html
+- About illinoisbankruptcy.org: https://illinoisbankruptcy.org/about.html
+- Credit After Bankruptcy in Illinois: https://illinoisbankruptcy.org/credit-after-bankruptcy.html
+- Keep Your Car in Illinois Bankruptcy: https://illinoisbankruptcy.org/keep-your-car.html
+- Keep Your House in Illinois Bankruptcy: https://illinoisbankruptcy.org/keep-your-house.html
+- Wage Garnishment in Illinois: How to Stop It: https://illinoisbankruptcy.org/wage-garnishment.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
